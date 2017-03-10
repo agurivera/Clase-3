@@ -1,0 +1,28 @@
+
+h1{
+	color:orange;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.aaa{ 
+	color: blue;
+	font-size: 1em;
+	font-family: 'Lobster Two', cursive;
+	font-style: 'Italic';
+ }
+
+ .B{ 
+	color: green;
+	font-size: 2em;
+	font-family: 'Rochester', cursive;
+	font-style: 'Italic';
+ }
+
+ .iconos{
+ 	font-size: 40px;
+ }
+
+.color-facebook{
+	color: #3b5998;
+}
